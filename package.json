@@ -1,0 +1,13 @@
+{
+  "name": "node-jenkins-practice",
+  "version": "1.0.0",
+  "description": "Simple Node.js project for Jenkins practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
